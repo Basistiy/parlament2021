@@ -1,0 +1,86 @@
+region name,UR percent,UR core percent,Stations with fraud,Stations without fraud,Availability
+Chechen Republic,96.16,,498,0,0.0
+Republic of Tuva,85.85,,185,0,0.0
+Kabardino-Balkarian Republic,79.2,,353,0,0.0
+Karachayevo-Circassian Republic,80.06,,254,0,0.0
+Republic of North Ossetia – Alania,71.11,21.73,345,4,0.87
+Republic of Crimea,63.34,44.84,1107,36,2.13
+Republic of Ingushetia,85.18,41.1,134,3,2.16
+Republic of Daghestan,81.52,31.89,1646,87,2.96
+Yamal-Nenets Autonomous Area,68.94,28.99,218,9,3.04
+Republic of Tatarstan,78.99,30.25,2674,54,3.08
+Kemerovo Region,70.74,32.78,1547,95,7.67
+Bryansk Region,64.3,36.63,972,89,9.07
+Republic of Adygeya,66.55,38.22,230,33,12.49
+Volgograd Region,58.41,34.74,1262,186,12.78
+Republic of Mordovia,65.89,36.56,704,38,12.79
+Republic of Bashkortostan,66.57,28.56,2952,345,14.86
+Sevastopol,56.79,44.43,156,29,15.08
+Stavropol Territory,61.83,34.17,1028,247,21.17
+Krasnodar Territory,60.98,33.29,2296,535,24.75
+Jewish Autonomous Region,56.31,33.17,133,42,28.53
+Tambov Region,56.89,32.09,724,160,29.84
+Saratov Region,59.82,36.64,1412,379,30.03
+Tula Region,52.87,35.98,778,309,36.93
+Tyumen Region,51.3,30.55,773,279,38.34
+Penza Region,56.18,34.05,805,240,39.39
+Belgorod Region,51.62,34.94,848,401,45.65
+Chukotka Autonomous Area,46.86,31.88,28,21,52.39
+Moscow Region,45.68,31.1,1910,2188,54.56
+Astrakhan Region,48.08,31.36,283,295,54.62
+Voronezh Region,55.88,31.7,1049,657,55.55
+Rostov Region,48.45,31.85,1286,1270,56.7
+Ryazan Region,47.71,32.62,557,415,59.23
+Nizhny Novgorod Region,50.69,35.03,1172,983,59.24
+Lipetsk Region,48.63,30.59,484,394,62.57
+Magadan Region,50.15,32.3,36,50,66.85
+Leningrad Region,43.08,32.85,345,653,68.41
+Republic of Kalmykia,39.48,28.57,102,127,69.44
+Republic of Buryatia,42.52,34.17,304,465,72.61
+Samara Region,44.25,32.84,767,1006,73.65
+Republic of Altai,38.48,33.51,56,170,73.83
+Ulyanovsk Region,38.89,30.05,407,520,74.04
+Kursk Region,43.01,36.55,426,653,74.47
+Kaliningrad Region,41.17,33.64,168,407,75.28
+Khanty-Mansi Autonomous Area – Yugra,42.3,30.75,182,557,77.11
+Orel Region,38.82,30.81,296,398,77.84
+Chuvash Republic,37.15,31.0,425,673,78.22
+Orenburg Region,38.29,32.11,480,1144,78.3
+Primorye Territory,37.33,27.26,278,1013,80.21
+Pskov Region,40.04,35.46,170,432,80.58
+Republic of Sakha (Yakutia),33.12,28.01,239,529,80.78
+Smolensk Region,39.93,33.81,198,592,82.69
+Udmurtian Republic,35.6,32.07,325,824,84.0
+Kaluga Region,36.26,33.3,191,523,84.81
+Republic of Mari El,33.43,29.91,114,407,85.47
+Sakhalin Region,35.58,29.17,53,253,85.85
+Ivanovo Region,36.22,31.42,132,634,85.87
+St. Petersburg,34.98,30.7,305,1676,85.88
+Kurgan Region,35.93,33.24,181,711,87.56
+Chelyabinsk Region,34.26,30.46,364,1863,88.13
+Trans-Baikal Territory,38.57,33.88,142,727,88.19
+Vladimir Region,37.63,35.25,141,838,88.51
+Sverdlovsk Region,34.69,33.25,331,2127,88.61
+Krasnoyarsk Territory,34.44,31.29,256,1644,88.83
+Novosibirsk Region,35.12,31.12,364,1485,89.25
+Tver Region,35.34,31.53,200,935,89.99
+Amur Region,34.11,30.44,98,581,91.13
+Omsk Region,32.62,29.26,235,1295,91.32
+Altai Territory,33.62,31.1,206,1516,91.88
+Vologda Region,34.28,32.89,100,817,93.51
+Irkutsk Region,35.41,33.45,170,1645,94.43
+Nenets Autonomous Area,28.78,27.34,2,42,95.04
+Kamchatka Territory,33.16,30.83,18,165,95.06
+Khabarovsk Territory,24.48,21.79,38,711,95.19
+Murmansk Region,34.53,30.55,39,396,95.22
+Novgorod Region,32.46,31.13,42,481,95.39
+Moscow,29.37,28.07,179,3387,95.9
+Republic of Khakassia,33.28,32.48,19,343,96.29
+Arkhangelsk Region,32.2,30.93,38,787,96.38
+Perm Territory,33.55,32.7,99,1657,96.41
+Tomsk Region,32.65,31.9,50,685,96.78
+Kirov Region,29.47,28.73,43,1068,97.5
+Komi Republic,29.39,28.86,20,593,98.04
+Yaroslavl Region,27.56,26.91,21,806,98.06
+Kostroma Region,30.21,29.48,17,518,98.1
+Republic of Karelia,31.65,31.5,4,447,99.26
